@@ -1,2 +1,2 @@
 # libthreat
-Sample C library
+Sample C library framework
